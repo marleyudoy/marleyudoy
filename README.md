@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marley Udoy</h1>
 <h3 align="center">Programmer | Web Designer </h3>
 
-<p>
-![Profile views].(https://komarev.com/ghpvc/?username=harun181&color=red)
-</p>
-
 <div align="center">
 
 </div>
