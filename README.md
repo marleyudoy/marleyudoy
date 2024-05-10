@@ -1,4 +1,4 @@
-![I am sayed udoy](https://github.com/sayed udoy/sayed udoy/blob/main/code.png)
+![I am sayed udoy](https://github.com/marleyudoy/marleyudoy/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
