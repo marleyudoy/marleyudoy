@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Frontend web design
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, tailwindcss**
 
 - 📫 How to reach me **marleyudoy364@gmail.com**
 
