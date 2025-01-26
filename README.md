@@ -1,13 +1,13 @@
 ![I am harun181](https://github.com/marleyudoy/marleyudoy/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Marley Udoy</h1>
-<h3 align="center">Programmer | Web Designer </h3>
+<h1 align="center">Hi 👋, I'm Sayed Udoy</h1>
+<h3 align="center">Programmer | Web Developer </h3>
 
 <div align="center">
 
 </div>
 
-- 🌱 I’m currently learning Frontend web design
+- 🌱 I’m currently learning Frontend web Deveopment
 
 - 💬 Ask me about **HTML5, CSS3, JS, tailwindcss**
 
